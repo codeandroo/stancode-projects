@@ -8,4 +8,10 @@ Watch the **[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0
 
 ### Project Source codes:
 
-* [Hangman Game]()
+* [Hangman Game](https://github.com/codeandroo/stancode-projects/blob/main/SC001%20(beginner)/SC001_Assignment3/hangman.py)
+* [Weather Master](https://github.com/codeandroo/stancode-projects/blob/main/SC001%20(beginner)/SC001_Assignment2/weather_master.py)
+* [MyPhotoshop](https://github.com/codeandroo/stancode-projects/blob/main/SC001%20(beginner)/SC001_Assignment4/best_photoshop_award.py)
+* [Pedestrian Removing Application](https://github.com/codeandroo/stancode-projects/blob/main/SC101%20(advanced)/SC101_Assignment3/stanCodoshop.py)
+* [Breakout Game](https://github.com/codeandroo/stancode-projects/blob/main/SC101%20(advanced)/SC101_Assignment2/breakout.py)
+* [Name Popularity Searching System](https://github.com/codeandroo/stancode-projects/blob/main/SC101%20(advanced)/SC101_Assignment4/babynames.py)
+* [Boggle Game Solver](https://github.com/codeandroo/stancode-projects/blob/main/SC101%20(advanced)/SC101_Assignment5/boggle.py)
